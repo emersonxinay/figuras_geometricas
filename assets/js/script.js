@@ -1,3 +1,4 @@
+
 // calculando el perimetro y el area del cuadrado 
 const perimetro_cuadrado = (lado) => lado * 4;
 const area_cuadrado = (lado) => lado * lado;
@@ -97,5 +98,7 @@ function calcularDiametroCirculo() {
   document.getElementById('resultado').innerText = resultado_circulo
   document.getElementById('resultado3').innerText = resultado_circulo
 }
+
+
 
 
